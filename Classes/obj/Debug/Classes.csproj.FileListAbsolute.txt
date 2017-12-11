@@ -1,0 +1,7 @@
+D:\Orlin\TelerikAcademyAlpha\DefiningClasses\Classes\bin\Debug\Classes.exe.config
+D:\Orlin\TelerikAcademyAlpha\DefiningClasses\Classes\bin\Debug\Classes.exe
+D:\Orlin\TelerikAcademyAlpha\DefiningClasses\Classes\bin\Debug\Classes.pdb
+D:\Orlin\TelerikAcademyAlpha\DefiningClasses\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+D:\Orlin\TelerikAcademyAlpha\DefiningClasses\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+D:\Orlin\TelerikAcademyAlpha\DefiningClasses\Classes\obj\Debug\Classes.exe
+D:\Orlin\TelerikAcademyAlpha\DefiningClasses\Classes\obj\Debug\Classes.pdb
